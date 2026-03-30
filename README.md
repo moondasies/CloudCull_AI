@@ -1,6 +1,6 @@
 # CloudCull AI - SaaS Spend Optimization
 
-CloudCull AI is a professional, premium SaaS spend optimization dashboard built with **Streamlit**, **Supabase**, and **Groq AI**. It helps companies like "TechVista Solutions" identify wasted subscription costs, cull inactive seats, and manage their entire SaaS ecosystem from a single, beautiful interface.
+CloudCull AI [problem statement taken from : https://razorpay.com/m/fix-my-itch/#all-problems ] is a professional, premium SaaS spend optimization dashboard built with **Streamlit**, **Supabase**, and **Groq AI**. It helps companies like "TechVista Solutions" identify wasted subscription costs, cull inactive seats, and manage their entire SaaS ecosystem from a single, beautiful interface.
 
 ## 🚀 Features
 
